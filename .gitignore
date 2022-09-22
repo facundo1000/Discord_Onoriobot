@@ -1,1 +1,16 @@
 # Project exclude paths
+
+#IntelliJ
+/.idea/
+**/*.iml
+# Maven
+**/dependency-reduced-pom.xml
+**/META-INF/
+**/target/
+
+# Build artifacts
+*.jar
+out/
+**/build/
+**/bin/
+generated/
