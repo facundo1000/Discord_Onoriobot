@@ -1,1 +1,1 @@
-worker: java -jar target/dOnoriobot.jar
+web: java -jar target/dOnoriobot.jar
