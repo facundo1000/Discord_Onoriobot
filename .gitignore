@@ -10,7 +10,7 @@
 
 # Build artifacts
 Procfile
-system.propeties
+system.properties
 out/
 **/build/
 **/bin/
