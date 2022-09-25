@@ -1,1 +1,1 @@
-worker: java -jar /semtarget/original-dOnoriobot.jar
+worker: java -jar target/original-dOnoriobot.jar
