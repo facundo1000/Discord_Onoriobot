@@ -13,7 +13,7 @@
         <configuration>
           <archive>
             <manifest>
-              <addClasspath>${maven.compiler.target}</addClasspath>
+              <addClasspath>true</addClasspath>
               <mainClass>org.github.discord.onoriobot.OnorioSimpleBot</mainClass>
             </manifest>
           </archive>
