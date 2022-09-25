@@ -11,6 +11,7 @@
 # Build artifacts
 Procfile
 system.properties
+target
 out/
 **/build/
 **/bin/
